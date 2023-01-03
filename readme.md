@@ -1,5 +1,5 @@
-# DDPM implementation from scratch on PyTorch
-- The easist and straightforward implementation of DDPM (Denoising Diffusion Probablistic Models)
+# Denoising Diffusion Probablistic Models (DDPM) implementation from scratch on PyTorch
+- Easy-to-follow and straightforward implementation of DDPM
 - Tried to use the original parameters and formulas without any modification
 - Added visualizer for checking forward and backward process
 
