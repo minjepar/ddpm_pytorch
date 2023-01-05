@@ -2,6 +2,8 @@
 - Easy-to-follow and straightforward implementation of DDPM
 - Tried to use the original parameters and formulas without any modification
 - Added visualizer for checking forward and backward process
+![Forward process](https://user-images.githubusercontent.com/89180010/210683042-24c01806-315d-4496-a3c0-5a6a928aea5b.png)
+![Backward process](https://user-images.githubusercontent.com/89180010/210683042-24c01806-315d-4496-a3c0-5a6a928aea5b.png)
 
 ## UNet
 - Simple U Net with time embedding used in Transformer
