@@ -1,5 +1,5 @@
 # Denoising Diffusion Probablistic Models (DDPM) implementation from scratch on PyTorch
-- Easy-to-follow and straightforward implementation of DDPM
+- Easy-to-follow and straightforward implementation of DDPM (based on jupyter notebook)
 - Tried to use the original parameters and formulas without any modification
 - Added visualizer for checking forward and backward process
 ![Forward process](https://user-images.githubusercontent.com/89180010/210683032-b862cfbb-913b-4947-ad10-281156c88826.png)
